@@ -1,0 +1,17 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: E:\Users\Frank\Documents\GitHub\bear_extruder_and_x_axis\optional_parts\Bear_LGX\Air_nozzle_for_the_Bear_extruder_Rev.1_Prusa_MK3_stock_Rev.0\files\MK3_Nozzle_Bear_RHD_Rev.1.stp
+
+
+Surfaces successfully processed into a solid body.
+STEP-in completed.
+Error: Unable to create solid from trimmed surfaces.
+STEP-in did not complete successfully.
